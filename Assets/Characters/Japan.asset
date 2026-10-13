@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81def69508b740d38fc840005fa11e72, type: 3}
+  m_Name: Japan
+  m_EditorClassIdentifier: 
+  displayName: Japan
+  flag: {fileID: -8211884242461597376, guid: 3124ec874027d8ed091d5da9d16a16ab, type: 3}
+  nicknames:
+  - hiroshi
+  - kenji
+  - takumi
+  - haruto
+  - riku
+  - sora
+  - daichi
+  - kaito
+  - ren
+  - yuki
+  - sakura
+  - aoi
+  - mei
+  - rin
+  maxHealth: 3
